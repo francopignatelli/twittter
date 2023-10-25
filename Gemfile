@@ -67,6 +67,7 @@ group :development do
   gem 'guard', '~> 2.18', '>= 2.18.1'
   gem 'guard-livereload', '~> 2.5', '>= 2.5.2', require: false
   gem 'erb_lint', require: false
+  gem 'binding_of_caller', '~> 1.0'
   # Add speed badges [https://github.com/MiniProfiler/rack-mini-profiler]
   # gem "rack-mini-profiler"
 
